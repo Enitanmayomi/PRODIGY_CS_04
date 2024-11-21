@@ -1,0 +1,1 @@
+This is a basic keylogger program that records and logs keystrokes. This code helps a user record all keystrokes on a computer. However, it should only be used for educational or legal purposes as keylogging is a delicate tool. 
